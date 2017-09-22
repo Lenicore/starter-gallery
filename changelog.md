@@ -8,6 +8,26 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 Release Date: xxx xx, xxxx
 
+## *Version 0.0.3*
+
+## Updated Components
+
+- Views (trivial) (Lenic)
+	
+	- Welcome
+	- Gallery
+	- About
+
+- Controllers (Redirect) (Lenic)
+
+	- Welcome
+	- Gallery
+	- About
+
+- Core (Parametre Change) (Lenic)
+
+	- MY_Controller
+
 ## *Version 0.0.2*
 
 ## New Components
