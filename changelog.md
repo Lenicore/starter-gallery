@@ -1,33 +1,17 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Lenic Zhang (Captain) & Ian Park (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## [Unreleased]
 
-Release Date: Jul 26, 2027
+Release Date: xxx xx, xxxx
 
-## New Components
-
--   controllers
-
-    -   serbian (AB)
-    
+## *Version 0.0.1*
+   
 ## Updated Components
 
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
+-   Changelog (Lenic)
 
 
