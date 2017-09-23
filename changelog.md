@@ -4,9 +4,34 @@ Team membership:  Lenic Zhang (Captain) & Ian Park (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## [Unreleased]
+## [0.0.4]
 
-Release Date: xxx xx, xxxx
+Release Date: Sep 22, 2017
+
+## *Version 0.0.4*
+
+## New Components
+
+-	Models
+
+	-	Images (Ian)
+
+## Updated Components
+
+-	The datbase driver is now pre-loaded (Ian)
+
+-	Git ignores the database.php file for security reason (Ian)
+
+-	Views (good)
+
+	-	Welcome
+
+		-	Shows three newest images from the database (Ian)
+
+	-	Gallery
+
+		-	Shows all images from the database (Ian)
+
 
 ## *Version 0.0.3*
 
@@ -27,6 +52,7 @@ Release Date: xxx xx, xxxx
 - Core (Parametre Change) (Lenic)
 
 	- MY_Controller
+
 
 ## *Version 0.0.2*
 
